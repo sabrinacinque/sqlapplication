@@ -5,6 +5,11 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlapplication", "sqlapplication\sqlapplication.csproj", "{F2426338-0113-4502-A8E7-F81500BE4DBD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementi di soluzione", "Elementi di soluzione", "{EF0CD8AF-35EE-4296-9232-E424E2525BED}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\daticomunali.sql = ..\..\..\Downloads\daticomunali.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
